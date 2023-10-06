@@ -1,0 +1,20 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Sub",
+    "pages/Buttons",
+    "pages/Selects",
+    "pages/Progresses",
+    "pages/Texts",
+    "pages/Picker",
+    "pages/Linear",
+    "pages/Stacks",
+    "pages/Flexes",
+    "pages/Grids",
+    "pages/Lists",
+    "pages/Scrolls",
+    "pages/Tab",
+    "pages/Loading",
+    "pages/Loading"
+  ]
+}
